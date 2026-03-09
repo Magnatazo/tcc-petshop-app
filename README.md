@@ -14,5 +14,5 @@ Desenvolver um aplicativo simples para gerenciamento de um petshop.
 ## Funcionalidades
 1. Cadastro de Clientes
 2. Cadastro de Pets
-3. Agendamento de Serviços
-4. Cancelamento de Agendamento
+3. Serviços
+4. Agendamento
